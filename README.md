@@ -3,9 +3,10 @@
 This repository is contain  my JavaScript Revision journey. Each folder represents a core concept, containing practical code examples, common interview "gotchas," and documentation.
 
 ## 🛠️ Project Structure
-- `01-Variables-DataTypes`: Understand memory and types.
-- `02-Operations-Conditionals`: Understand Different Operations and if/else, Switch, Ternary
-- `03-Loops-String`:(Coming Soon...)
+- `01-Variables-DataTypes`: Understanding memory, primitives, and the `typeof` quirks.
+- `02-Operations-Conditionals`: Logic flow using strict equality, logical operators, and switch statements.
+- `03-Loops-Strings`: Mastering repetition, infinite loop prevention, and string manipulation methods.
+- `04-Arrays`: Managing ordered data collections using push, pop, shift, and unshift.
 
 ## 📈 Learning Goal
 To master JavaScript deeply by practicing "breaking" the code and documenting the nuances of the language.
