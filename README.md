@@ -7,6 +7,9 @@ This repository is contain  my JavaScript Revision journey. Each folder represen
 - `02-Operations-Conditionals`: Logic flow using strict equality, logical operators, and switch statements.
 - `03-Loops-Strings`: Mastering repetition, infinite loop prevention, and string manipulation methods.
 - `04-Arrays`: Managing ordered data collections using push, pop, shift, and unshift.
+- `05-Functions-Methods`: Arrow functions, Callback logic, and Higher-Order Array methods.
+
+- `00-JS-Logic-Lab`: The "Practice Arena" where I combine everything from Chapters 1–5.
 
 ## 📈 Learning Goal
 To master JavaScript deeply by practicing "breaking" the code and documenting the nuances of the language.
