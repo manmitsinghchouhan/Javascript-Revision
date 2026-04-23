@@ -11,6 +11,7 @@ This repository is contain  my JavaScript Revision journey. Each folder represen
 - `03-Loops-Strings`: Mastering repetition, infinite loop prevention, and string manipulation methods.
 - `04-Arrays`: Managing ordered data collections using push, pop, shift, and unshift.
 - `05-Functions-Methods`: Arrow functions, Callback logic, and Higher-Order Array methods.
+- `06-Complete-DOM`:Manipulating DOM, EventListners , ClassLists , get/set Attribute
 
 
 ## 📈 Learning Goal
