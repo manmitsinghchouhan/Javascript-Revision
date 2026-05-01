@@ -11,8 +11,10 @@ This repository is contain  my JavaScript Revision journey. Each folder represen
 - `03-Loops-Strings`: Mastering repetition, infinite loop prevention, and string manipulation methods.
 - `04-Arrays`: Managing ordered data collections using push, pop, shift, and unshift.
 - `05-Functions-Methods`: Arrow functions, Callback logic, and Higher-Order Array methods.
-- `06-Complete-DOM`:Manipulating DOM, EventListners , ClassLists , get/set Attribute
+- `06-Complete-DOM`: Manipulating DOM, EventListners , ClassLists , get/set Attribute
 - `07-Classes-Objects`: Prototype object , Classes , Inheritances , Constructors, few new keywords
+- `08-Asynchronous-JS`: Callbacks , Promises , Async - Await , IIFE
+- `09-Fetch-API`: How Fetch() works and how we handle the req-res object and error 
 
 
 ## 📈 Learning Goal
